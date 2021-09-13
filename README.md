@@ -14,4 +14,4 @@ Use jquery plugin to animate text.
 
 THE FORCAST PORTION OF THIS DOES NOT WORK.
 
-I would like to thank the open source nature of the industry as a whole for always helping those who seek out the knowledge.
+
